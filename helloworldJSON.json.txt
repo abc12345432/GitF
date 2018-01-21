@@ -1,0 +1,72 @@
+var M=[
+{
+"name": "ARUVI",
+
+"year:": 2017,
+"ratings:": 5,
+},
+{
+"name:": "BAHUBALI",
+"year": 2018,
+"ratings": 5
+},
+{
+"name": "B. Merasal",
+"year": 2017,
+"ratings": 5,
+},
+{
+"name": "2.o",
+"year": 2018,
+"ratings": 5
+},
+{
+"name": BAJRANGI BHAIJAAN",
+"year": 2014,
+"ratings": 5
+},
+{
+"name": "FUKREY RETURNS",
+"year": 2015,
+"ratings": 5
+},
+{
+"name": "JAB HARRY MET SEJAL",
+"year": 2018,
+ratings: 5
+},
+{
+"name": "TUBELIGHT",
+"year": 2017,
+"ratings": 5
+{
+"name": "TIGER ZINDA HAI",
+"year": 2017,
+"ratings": 5
+},
+{
+"name": "LOGAN: THE WOLVERINE",
+"year": 2017,
+"ratings": 5
+},
+{
+"name": "BEFORE I FALL",
+"year": 2017 ,
+"ratings": 5
+},
+{
+"name": "THE LAST WORD",
+"year": 2017,
+"ratings": 5
+},
+{
+"name": "MY SCIENTOLOGY MOVIE",
+"year": 2017,
+"ratings": 5
+},
+{
+"name": "DONALD CRIED",
+"year": 2016,
+"ratings": 5
+}
+];
